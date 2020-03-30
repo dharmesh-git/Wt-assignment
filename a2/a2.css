@@ -1,0 +1,31 @@
+body
+{
+	 background-image: linear-gradient(to bottom right, #9ec3ff, #27ab51);
+	/* background-image: url("https://www.pinclipart.com/picdir/middle/49-498983_sun-transparent-background-tangled-sun-symbol-huge-tangled.png");
+	*/
+}
+
+h1{
+
+    color: #edda32;
+	font-size: 26px;
+
+}
+p
+{
+	color: #ededed;
+	font-size: 20px;
+	font-family: Georgia;
+}
+div
+{
+	color: #ededed;
+	font-size: 20px;
+	font-family: sans-serif;
+}
+
+.table1
+{
+	border: 5px;
+	border-color: #438b8f;
+}
